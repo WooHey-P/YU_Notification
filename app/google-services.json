@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779755294778",
+    "project_id": "yunotification",
+    "storage_bucket": "yunotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779755294778:android:f16c66d97803b625936503",
+        "android_client_info": {
+          "package_name": "com.example.yu_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779755294778-o8smuk4tk26r9b6litab052m8rctjcp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJ_5jzeCwEVAOS2b1Q9rac86RTB3sB1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779755294778-o8smuk4tk26r9b6litab052m8rctjcp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
