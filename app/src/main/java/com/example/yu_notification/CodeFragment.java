@@ -23,7 +23,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 public class CodeFragment extends Fragment {
-    private static String TAG = "TAG 학사";
+    private static String TAG = "TAG 학사안내";
 
 
     RecyclerView recycle_codes;
